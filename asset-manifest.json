@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gor-gevorgyan/react_autoresize/static/css/main.acba5700.chunk.css",
+    "main.js": "/gor-gevorgyan/react_autoresize/static/js/main.72c6a5ee.chunk.js",
+    "main.js.map": "/gor-gevorgyan/react_autoresize/static/js/main.72c6a5ee.chunk.js.map",
+    "runtime-main.js": "/gor-gevorgyan/react_autoresize/static/js/runtime-main.d3df2953.js",
+    "runtime-main.js.map": "/gor-gevorgyan/react_autoresize/static/js/runtime-main.d3df2953.js.map",
+    "static/css/2.d4e7eff5.chunk.css": "/gor-gevorgyan/react_autoresize/static/css/2.d4e7eff5.chunk.css",
+    "static/js/2.0a8c0d1d.chunk.js": "/gor-gevorgyan/react_autoresize/static/js/2.0a8c0d1d.chunk.js",
+    "static/js/2.0a8c0d1d.chunk.js.map": "/gor-gevorgyan/react_autoresize/static/js/2.0a8c0d1d.chunk.js.map",
+    "index.html": "/gor-gevorgyan/react_autoresize/index.html",
+    "precache-manifest.0f65efbe15a6a03bb11551a3938ff1f7.js": "/gor-gevorgyan/react_autoresize/precache-manifest.0f65efbe15a6a03bb11551a3938ff1f7.js",
+    "service-worker.js": "/gor-gevorgyan/react_autoresize/service-worker.js",
+    "static/css/2.d4e7eff5.chunk.css.map": "/gor-gevorgyan/react_autoresize/static/css/2.d4e7eff5.chunk.css.map",
+    "static/css/main.acba5700.chunk.css.map": "/gor-gevorgyan/react_autoresize/static/css/main.acba5700.chunk.css.map",
+    "static/js/2.0a8c0d1d.chunk.js.LICENSE.txt": "/gor-gevorgyan/react_autoresize/static/js/2.0a8c0d1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3df2953.js",
+    "static/css/2.d4e7eff5.chunk.css",
+    "static/js/2.0a8c0d1d.chunk.js",
+    "static/css/main.acba5700.chunk.css",
+    "static/js/main.72c6a5ee.chunk.js"
+  ]
+}
